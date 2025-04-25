@@ -1,1 +1,1 @@
-# projeto-front-end-milena-battistella
+# projeto-front-end-milena-battistella Fiz uma receita de torta de banana para titulo usei <1> dentro da body, para subtitulo usei <p> e para a introdução (A receita) usei o <ol>. Para a cor do fundo e das letras usei o style.css com a h1 e a body, fundo foi o  background-color: aliceblue; e letras    color: rgb(243, 226, 73); 
